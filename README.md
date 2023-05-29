@@ -19,12 +19,10 @@ I constantly yearn for new challenges and opportunities to enhance my skills! :)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35" height="35"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="35" height="35"/>
 </p>
-<br>
-<br>
 
-<p><img align="left" src=https://github-readme-stats.vercel.app/api/top-langs?username=mariorobertofortunato&show_icons=true&locale=en&layout=compact alt="mariorobertofortunato" /></p>
+<p><img align="center" src=https://github-readme-stats.vercel.app/api/top-langs?username=mariorobertofortunato&show_icons=true&locale=en&layout=compact alt="mariorobertofortunato" /></p>
 
-<p>&nbsp;<img align="center" src=https://github-readme-stats.vercel.app/api?username=mariorobertofortunato&show_icons=true&locale=en alt="mariorobertofortunato" /></p>
+<p><img align="center" src=https://github-readme-stats.vercel.app/api?username=mariorobertofortunato&show_icons=true&locale=en alt="mariorobertofortunato" /></p>
 
 <p><img align="center" src=https://github-readme-streak-stats.herokuapp.com/?user=mariorobertofortunato& alt="mariorobertofortunato" /></p>
 
