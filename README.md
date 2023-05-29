@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World! 👋
 
 During the day, I work as an Android developer, and when night falls, I transform into a Techno DJ. 
 It seems like I can't resist the urge to tinker with machines, right?
@@ -6,6 +6,21 @@ It seems like I can't resist the urge to tinker with machines, right?
 With an immense passion for everything related to techno(logy), I've been typing away on computer keyboards since the era of 56k modems. My primary system is a Hackintosh, which speaks volumes about my dedication.
 
 I constantly yearn for new challenges and opportunities to enhance my skills! :)
+
+- 🌱 I’m currently learning Jetpack Compose
+
+
+## Language & Tools
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+</p>
+
+
 
 <!--
 **mariorobertofortunato/mariorobertofortunato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
