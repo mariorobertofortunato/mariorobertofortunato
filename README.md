@@ -25,7 +25,7 @@ I constantly yearn for new challenges and opportunities to enhance my skills! :)
 <p><img align="center" src=https://github-readme-stats.vercel.app/api?username=mariorobertofortunato&show_icons=true&locale=en alt="mariorobertofortunato" /></p>
 
 <p><img align="center" src=https://github-readme-streak-stats.herokuapp.com/?user=mariorobertofortunato& alt="mariorobertofortunato" /></p>
-
+![](https://komarev.com/ghpvc/?username=mariorobertofortunato)
 
 
 <!--
