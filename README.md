@@ -1,13 +1,30 @@
 ### Hello World! 👋
 
-During the day, I work as an Android developer, and when night falls, I transform into a Techno DJ. 
-It seems like I can't resist the urge to tinker with machines, right?
+👨‍💻 Android developer by day, technology enthusiast by night.
+Always on the lookout for new challenges and ways to enhance my skills!
 
-With an immense passion for everything related to techno(logy), I've been typing away on computer keyboards since the era of 56k modems. My primary system is a Hackintosh, which speaks volumes about my dedication.
+🔌 I started tinkering with computers back in the 56k modem era, and I haven't stopped since. My "main machine" is a Hackintosh, so let's say I have a knack for adventure and creativity.
 
-I constantly yearn for new challenges and opportunities to enhance my skills! :)
+My tech stack:
 
-- 🌱 I’m currently learning Jetpack Compose
+🚀 Kotlin
+📱 Android Studio
+🔨 Gradle
+🌐 RESTful interfaces
+📡 Web APIs
+🏗️ Clean Architecture
+🗃️ Databases
+🖼️ Custom Views
+🔔 Notifications
+📍 Location Services
+🧪 Testing
+🔥 Firebase
+
+🚀 Currently, I'm enthusiastically exploring the vast world of Jetpack Compose, seeking new ways to create amazing user experiences.
+
+🎧 While my DJ career is on hold due to some hearing issues, my love for music and technology continues to inspire me.
+
+I can't wait to connect with professionals like you and explore new opportunities in the Android development field. If you have exciting ideas or projects, don't hesitate to share!
 
 
 ## Language & Tools
