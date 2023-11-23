@@ -2,8 +2,7 @@
 
 👨‍💻 Android developer by day, technology enthusiast by night. Always on the lookout for new challenges and ways to enhance my skills!
 
-🔌 I started tinkering with computers back in the 56k modem era, and I haven't stopped since. My "main machine" is a Hackintosh, so let's say I have a knack for adventure and creativity.<br>
-🎧 While my DJ career is on hold due to some hearing issues, my love for music and technology continues to inspire me.
+🔌 I started tinkering with computers back in the 56k modem era, and I haven't stopped since. My "main machine" is a Hackintosh, so let's say I have a knack for adventure and creativity. While my DJ career is on hold due to some hearing issues, my love for music and technology continues to inspire me.
 
 
 My tech stack:<br>
@@ -22,13 +21,14 @@ My tech stack:<br>
 🚀 Jetpack Compose
 📋 SAP BTP SDK
 
+I am presently engaged in a full-time role as a native Android developer, contributing my expertise to diverse international client projects. Simultaneously, I pursue an independent venture as an Android app developer, crafting captivating applications for both recreational and educational purposes. 
 
 My personal portfolio of Android applications include:<br>
 
-- 🏺"Ascendente", is a free app that calculates an individual's rising sign. Currently, it is rapidly approaching 1,000 downloads and is the top recommendation in the Italian store for anyone searching for this type of application.<br>
-- 📝 "Versalist Pro", another free application that provide a powerful and user-friendly tool designed to help create, organise, and manage lists for a wide range of purposes.<br>
-- ✈️ "Travel Check" - WIP 🤫<br>
-- 💸 "Rainy Day" - WIP 🤫<br>
+- "Ascendente", is a free app that calculates an individual's rising sign. Currently, it is rapidly approaching 1,000 downloads and is the top recommendation in the Italian store for anyone searching for this type of application.<br>
+- "Versalist Pro", another free application that provide a powerful and user-friendly tool designed to help create, organise, and manage lists for a wide range of purposes.<br>
+- "Travel Check" - WIP 🤫<br>
+- "Rainy Day" - WIP 🤫<br>
 
 🛠️ Here you can find my developer profile on the Google Play store:<br>
 <a href="https://play.google.com/store/apps/developer?id=EvenClose">Even Close on Google Play</a>
