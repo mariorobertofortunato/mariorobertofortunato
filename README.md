@@ -31,7 +31,7 @@ My personal portfolio of Android applications include:<br>
 - 💸 "Rainy Day" - WIP 🤫<br>
 
 🛠️ Here you can find my developer profile on the Google Play store:<br>
-<a href="https://play.google.com/store/apps/developer?id=EvenClose" target="_blank">Even Close on Google Play</a>
+<a href="https://play.google.com/store/apps/developer?id=EvenClose">Even Close on Google Play</a>
 
 I can't wait to connect with professionals like you and explore new opportunities in the Android development field. If you have exciting ideas or projects, don't hesitate to share!
 
