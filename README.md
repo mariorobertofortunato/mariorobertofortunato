@@ -25,10 +25,11 @@ My tech stack:
 🎧 While my DJ career is on hold due to some hearing issues, my love for music and technology continues to inspire me.
 
 My personal portfolio of Android applications include:<br>
-🏺"Ascendente", is a free app that calculates an individual's rising sign. Currently, it is rapidly approaching 1,000 downloads and is the top recommendation in the Italian store for anyone searching for this type of application.<br>
-📝 "Versalist Pro", another free application that provide a powerful and user-friendly tool designed to help create, organise, and manage lists for a wide range of purposes.<br>
-✈️ "Travel Check" - WIP 🤫<br>
-💸 "Rainy Day" - WIP 🤫<br>
+
+- 🏺"Ascendente", is a free app that calculates an individual's rising sign. Currently, it is rapidly approaching 1,000 downloads and is the top recommendation in the Italian store for anyone searching for this type of application.<br>
+- 📝 "Versalist Pro", another free application that provide a powerful and user-friendly tool designed to help create, organise, and manage lists for a wide range of purposes.<br>
+- ✈️ "Travel Check" - WIP 🤫<br>
+- 💸 "Rainy Day" - WIP 🤫<br>
 
 🛠️ Here you can find my developer profile on the Google Play store:<br>
 <a href="https://play.google.com/store/apps/developer?id=EvenClose">Even Close on Google Play</a>
