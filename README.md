@@ -7,20 +7,20 @@ Always on the lookout for new challenges and ways to enhance my skills!
 
 My tech stack:
 
-🚀 Kotlin<br>
-📱 Android Studio<br>
-🔨 Gradle<br>
-🌐 RESTful interfaces<br>
-📡 Web APIs<br>
-🏗️ Clean Architecture<br>
-🗃️ Databases<br>
-🖼️ Custom Views<br>
-🔔 Notifications<br>
-📍 Location Services<br>
-🧪 Testing<br>
-🔥 Firebase<br>
-🚀 Jetpack Compose<br>
-📋 SAP BTP SDK<br>
+🚀 Kotlin
+📱 Android Studio
+🔨 Gradle
+🌐 RESTful interfaces
+📡 Web APIs
+🏗️ Clean Architecture
+🗃️ Databases
+🖼️ Custom Views
+🔔 Notifications
+📍 Location Services
+🧪 Testing
+🔥 Firebase
+🚀 Jetpack Compose
+📋 SAP BTP SDK
 
 🎧 While my DJ career is on hold due to some hearing issues, my love for music and technology continues to inspire me.
 
