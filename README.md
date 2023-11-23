@@ -19,10 +19,19 @@ My tech stack:
 📍 Location Services
 🧪 Testing
 🔥 Firebase
-
-🚀 Currently, I'm enthusiastically exploring the vast world of Jetpack Compose, seeking new ways to create amazing user experiences.
+🚀 Jetpack Compose
+📋 SAP BTP SDK
 
 🎧 While my DJ career is on hold due to some hearing issues, my love for music and technology continues to inspire me.
+
+My personal portfolio of Android applications include:
+🏺"Ascendente", is a free app that calculates an individual's rising sign. Currently, it is rapidly approaching 1,000 downloads and is the top recommendation in the Italian store for anyone searching for this type of application.
+📝 "Versalist Pro", another free application that provide a powerful and user-friendly tool designed to help create, organise, and manage lists for a wide range of purposes.
+✈️ "Travel Check" - WIP 🤫
+💸 "Rainy Day" - WIP 🤫
+
+🛠️ Here you can find my developer profile on the Google Play store:
+<a href="[url](https://play.google.com/store/apps/developer?id=EvenClose)">Even Close on Google Play</a>
 
 I can't wait to connect with professionals like you and explore new opportunities in the Android development field. If you have exciting ideas or projects, don't hesitate to share!
 
