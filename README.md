@@ -2,10 +2,11 @@
 
 👨‍💻 Android developer by day, technology enthusiast by night. Always on the lookout for new challenges and ways to enhance my skills!
 
-🔌 I started tinkering with computers back in the 56k modem era, and I haven't stopped since. My "main machine" is a Hackintosh, so let's say I have a knack for adventure and creativity.
+🔌 I started tinkering with computers back in the 56k modem era, and I haven't stopped since. My "main machine" is a Hackintosh, so let's say I have a knack for adventure and creativity.<br>
+🎧 While my DJ career is on hold due to some hearing issues, my love for music and technology continues to inspire me.
 
-My tech stack:
 
+My tech stack:<br>
 🚀 Kotlin
 📱 Android Studio
 🔨 Gradle
@@ -21,7 +22,6 @@ My tech stack:
 🚀 Jetpack Compose
 📋 SAP BTP SDK
 
-🎧 While my DJ career is on hold due to some hearing issues, my love for music and technology continues to inspire me.
 
 My personal portfolio of Android applications include:<br>
 
