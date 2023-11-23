@@ -1,7 +1,6 @@
 ### Hello World! 👋
 
-👨‍💻 Android developer by day, technology enthusiast by night.<br>
-Always on the lookout for new challenges and ways to enhance my skills!
+👨‍💻 Android developer by day, technology enthusiast by night. Always on the lookout for new challenges and ways to enhance my skills!
 
 🔌 I started tinkering with computers back in the 56k modem era, and I haven't stopped since. My "main machine" is a Hackintosh, so let's say I have a knack for adventure and creativity.
 
