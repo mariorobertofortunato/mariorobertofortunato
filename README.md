@@ -1,15 +1,15 @@
 ### Hello World! 👋
 
-👨‍💻 Android developer by day, technology enthusiast by night.
+👨‍💻 Android developer by day, technology enthusiast by night.<br>
 Always on the lookout for new challenges and ways to enhance my skills!
 
 🔌 I started tinkering with computers back in the 56k modem era, and I haven't stopped since. My "main machine" is a Hackintosh, so let's say I have a knack for adventure and creativity.
 
-My tech stack:
+My tech stack:<br>
 
-🚀 Kotlin
-📱 Android Studio
-🔨 Gradle
+🚀 Kotlin<br>
+📱 Android Studio<br>
+🔨 Gradle<br>
 🌐 RESTful interfaces
 📡 Web APIs
 🏗️ Clean Architecture
