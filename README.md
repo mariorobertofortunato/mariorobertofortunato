@@ -5,33 +5,33 @@ Always on the lookout for new challenges and ways to enhance my skills!
 
 🔌 I started tinkering with computers back in the 56k modem era, and I haven't stopped since. My "main machine" is a Hackintosh, so let's say I have a knack for adventure and creativity.
 
-My tech stack:<br>
+My tech stack:
 
 🚀 Kotlin<br>
 📱 Android Studio<br>
 🔨 Gradle<br>
-🌐 RESTful interfaces
-📡 Web APIs
-🏗️ Clean Architecture
-🗃️ Databases
-🖼️ Custom Views
-🔔 Notifications
-📍 Location Services
-🧪 Testing
-🔥 Firebase
-🚀 Jetpack Compose
-📋 SAP BTP SDK
+🌐 RESTful interfaces<br>
+📡 Web APIs<br>
+🏗️ Clean Architecture<br>
+🗃️ Databases<br>
+🖼️ Custom Views<br>
+🔔 Notifications<br>
+📍 Location Services<br>
+🧪 Testing<br>
+🔥 Firebase<br>
+🚀 Jetpack Compose<br>
+📋 SAP BTP SDK<br>
 
 🎧 While my DJ career is on hold due to some hearing issues, my love for music and technology continues to inspire me.
 
-My personal portfolio of Android applications include:
-🏺"Ascendente", is a free app that calculates an individual's rising sign. Currently, it is rapidly approaching 1,000 downloads and is the top recommendation in the Italian store for anyone searching for this type of application.
-📝 "Versalist Pro", another free application that provide a powerful and user-friendly tool designed to help create, organise, and manage lists for a wide range of purposes.
-✈️ "Travel Check" - WIP 🤫
-💸 "Rainy Day" - WIP 🤫
+My personal portfolio of Android applications include:<br>
+🏺"Ascendente", is a free app that calculates an individual's rising sign. Currently, it is rapidly approaching 1,000 downloads and is the top recommendation in the Italian store for anyone searching for this type of application.<br>
+📝 "Versalist Pro", another free application that provide a powerful and user-friendly tool designed to help create, organise, and manage lists for a wide range of purposes.<br>
+✈️ "Travel Check" - WIP 🤫<br>
+💸 "Rainy Day" - WIP 🤫<br>
 
-🛠️ Here you can find my developer profile on the Google Play store:
-<a href="[url](https://play.google.com/store/apps/developer?id=EvenClose)">Even Close on Google Play</a>
+🛠️ Here you can find my developer profile on the Google Play store:<br>
+<a href="https://play.google.com/store/apps/developer?id=EvenClose">Even Close on Google Play</a>
 
 I can't wait to connect with professionals like you and explore new opportunities in the Android development field. If you have exciting ideas or projects, don't hesitate to share!
 
