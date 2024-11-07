@@ -46,7 +46,7 @@ I can't wait to connect with professionals like you and explore new opportunitie
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="35" height="35"/>
 </p>
 
-<p><img align="center" src=https://github-readme-stats.vercel.app/api/top-langs?username=mariorobertofortunato&show_icons=true&locale=en&layout=compact alt="mariorobertofortunato" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariorobertofortunato&theme=blue-green"/></p>
 
 <p><img align="center" src=https://github-readme-stats.vercel.app/api?username=mariorobertofortunato&show_icons=true&locale=en alt="mariorobertofortunato" /></p>
 
