@@ -1,40 +1,18 @@
 ### Hello World! 👋
+👨‍💻 <strong>Freelance Mobile and Front-End Developer | Creative Technologist</strong>
 
-👨‍💻 Android developer by day, technology enthusiast by night. Always on the lookout for new challenges and ways to enhance my skills!
+Technology has been my playground since the days of 56k modems. From building Hackintosh setups to crafting compelling digital experiences, I’ve always embraced challenges with curiosity and creativity.
 
-🔌 I started tinkering with computers back in the 56k modem era, and I haven't stopped since. My "main machine" is a Hackintosh, so let's say I have a knack for adventure and creativity. While my DJ career is on hold due to some hearing issues, my love for music and technology continues to inspire me.
+🌟 After years of full-time experience as a native Android developer, working on international client projects, I’m now stepping into the exciting world of freelancing. My goal is to deliver impactful, user-friendly solutions in <strong>mobile app development</strong>, <strong>front-end design</strong>, and <strong>creative coding.</strong>
 
+🎨 Beyond the code, I infuse creativity into everything I do. My background as a techno producer and DJ (paused due to hearing issues) taught me the value of blending logic and artistry—a philosophy I bring to my development projects.
 
-My tech stack:<br>
-🚀 Kotlin
-📱 Android Studio
-🔨 Gradle
-🌐 RESTful interfaces
-📡 Web APIs
-🏗️ Clean Architecture
-🗃️ Databases
-🖼️ Custom Views
-🔔 Notifications
-📍 Location Services
-🧪 Testing
-🔥 Firebase
-🚀 Jetpack Compose
-📋 SAP BTP SDK
+📚 I’ve worked on a range of projects, from intuitive finance apps to generative art installations. My expertise spans <strong>Android development</strong>, <strong>SwiftUI</strong>, <strong>Vue.js</strong>, and <strong>GraphQL</strong>, with a passion for building seamless user experiences.
 
-I am presently engaged in a full-time role as a native Android developer, contributing my expertise to diverse international client projects. Simultaneously, I pursue an independent venture as an Android app developer, crafting captivating applications for both recreational and educational purposes. 
+🌍 Explore my work and collaborations:<br>
+<a href="https://mariorobertofortunato.com">mariorobertofortunato.com</a>
 
-My personal portfolio of Android applications include:<br>
-
-- "Ascendente", is a free app that calculates an individual's rising sign. Currently, it is rapidly approaching 1,000 downloads and is the top recommendation in the Italian store for anyone searching for this type of application.<br>
-- "Versalist Pro", another free application that provide a powerful and user-friendly tool designed to help create, organise, and manage lists for a wide range of purposes.<br>
-- "Travel Check" - WIP 🤫<br>
-- "Rainy Day" - WIP 🤫<br>
-
-🛠️ Here you can find my developer profile on the Google Play store:<br>
-<a href="https://play.google.com/store/apps/developer?id=EvenClose">Even Close on Google Play</a>
-
-I can't wait to connect with professionals like you and explore new opportunities in the Android development field. If you have exciting ideas or projects, don't hesitate to share!
-
+Let’s connect and create something extraordinary! Whether you have an idea for a mobile app, need a stunning front-end for your website, or want to dive into creative coding, I’d love to hear from you. 🚀<br>
 
 ## Language & Tools
 <p>
