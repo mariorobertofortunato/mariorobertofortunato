@@ -1,5 +1,5 @@
 ### Hello World! 👋
-👨‍💻 <strong>Freelance Mobile and Front-End Developer | Creative Technologist</strong>
+👨‍💻 <strong>Freelance Mobile and Front-End Developer</strong>
 
 Technology has been my playground since the days of 56k modems. From building Hackintosh setups to crafting compelling digital experiences, I’ve always embraced challenges with curiosity and creativity.
 
