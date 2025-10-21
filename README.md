@@ -1,5 +1,12 @@
-### Hello World! 👋
-👨‍💻 <strong>Freelance Mobile and Front-End Developer</strong>
+<div align="center" >╔═๑▬▬▬๑๑▬▬▬▬๑◥◣◆◢◤๑▬▬▬▬๑๑▬▬▬๑══๑▬▬▬๑๑▬▬▬▬๑◥◣◆◢◤๑▬▬▬▬๑๑▬▬▬๑═╗
+
+
+Mobile, Web & Blockchain Dev.
+
+
+Occasional Creative Coder.</strong>
+╚═๑▬▬▬๑๑▬▬▬▬๑◢◤◆◥◣๑▬▬▬▬๑๑▬▬▬๑══๑▬▬▬๑๑▬▬▬▬๑◢◤◆◥◣๑▬▬▬▬๑๑▬▬▬๑═╝
+</div>
 
 Technology has been my playground since the days of 56k modems. From building Hackintosh setups to crafting compelling digital experiences, I’ve always embraced challenges with curiosity and creativity.
 
