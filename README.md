@@ -1,7 +1,7 @@
 <div align="center" >╔═๑▬▬▬๑๑▬▬▬▬๑◥◣◆◢◤๑▬▬▬▬๑๑▬▬▬๑══๑▬▬▬๑๑▬▬▬▬๑◥◣◆◢◤๑▬▬▬▬๑๑▬▬▬๑═╗
 
 
-Mobile, Web & Blockchain Dev.
+Android, Web & Blockchain Dev.
 
 
 Occasional Creative Coder.</strong>
