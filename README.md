@@ -1,10 +1,14 @@
 <div align="center"><samp>
 
+<h2 align="right">
+    mario roberto fortunato
+</h2>
+
 <h4 align="right">
     Android Engineer turned Offensive Security Practitioner, with 4+ years of experience building production mobile applications and a growing specialization in mobile penetration testing and malware analysis
 </br>
 </br>
-    certs:</br></br>
+    my certs:</br></br>
     <img src="https://img.shields.io/badge/CAPT-Certified_Associate_Penetration_Tester-FFFFFF"/>
     <img src="https://img.shields.io/badge/PMPA-Practical_Mobile_Pentest_Associate-FFFFFF"/>
 </h4>
