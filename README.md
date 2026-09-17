@@ -1,16 +1,20 @@
 <div align="center"><samp>
-๑▬▬▬๑๑▬▬▬▬๑๑▬▬▬▬๑๑▬▬▬๑๑▬▬▬๑๑▬▬▬▬๑๑▬▬▬▬๑๑▬▬▬๑<br>
-<h4>
-    Android Engineer turned Offensive Security Practitioner, with 4+ years of experience building production mobile applications and a growing specialization in mobile penetration testing and malware analysis.
-</h4>
-<h4>
+
+</br>
+</br>
+<h4 align="right">
+    Android Engineer turned Offensive Security Practitioner, with 4+ years of experience building production mobile applications and a growing specialization in mobile penetration testing and malware analysis
+</br>
+</br>
     certs:</br></br>
     <img src="https://img.shields.io/badge/CAPT-Certified_Associate_Penetration_Tester-FFFFFF"/>
     <img src="https://img.shields.io/badge/PMPA-Practical_Mobile_Pentest_Associate-FFFFFF"/>
 </h4>
-๑▬▬▬๑๑▬▬▬▬๑๑▬▬▬▬๑๑▬▬▬๑๑▬▬▬๑๑▬▬▬▬๑๑▬▬▬▬๑๑▬▬▬๑
 
-<h4>
+</br>
+</br>
+
+<h4 align="right">
     my expertise:</br></br>
     <img src="https://img.shields.io/badge/android_studio-FFFFFF"/>
     <img src="https://img.shields.io/badge/vs_code-FFFFFF"/>
@@ -25,12 +29,17 @@
     <img src="https://img.shields.io/badge/frida-FFFFFF"/>
     <img src="https://img.shields.io/badge/adb-FFFFFF"/>
 </h4>
-๑▬▬▬๑๑▬▬▬▬๑๑▬▬▬▬๑๑▬▬▬๑๑▬▬▬๑๑▬▬▬▬๑๑▬▬▬▬๑๑▬▬▬๑
 
-<h4>
+</br>
+</br>
+
+<h4 align="right">
     <a href="https://mariorobertofortunato.com">mariorobertofortunato.com</a></br>
 </h4>
-๑▬▬▬๑๑▬▬▬▬๑๑▬▬▬▬๑๑▬▬▬๑๑▬▬▬๑๑▬▬▬▬๑๑▬▬▬▬๑๑▬▬▬๑
+
+</br>
+</br>
+
 </samp>
 </div>
 
