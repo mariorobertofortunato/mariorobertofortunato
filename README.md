@@ -1,7 +1,5 @@
 <div align="center"><samp>
 
-</br>
-</br>
 <h4 align="right">
     Android Engineer turned Offensive Security Practitioner, with 4+ years of experience building production mobile applications and a growing specialization in mobile penetration testing and malware analysis
 </br>
@@ -11,7 +9,6 @@
     <img src="https://img.shields.io/badge/PMPA-Practical_Mobile_Pentest_Associate-FFFFFF"/>
 </h4>
 
-</br>
 </br>
 
 <h4 align="right">
@@ -31,14 +28,10 @@
 </h4>
 
 </br>
-</br>
 
 <h4 align="right">
     <a href="https://mariorobertofortunato.com">mariorobertofortunato.com</a></br>
 </h4>
-
-</br>
-</br>
 
 </samp>
 </div>
